@@ -1,2 +1,2 @@
-# java_QAQ
+# java_AQA
 testing course
