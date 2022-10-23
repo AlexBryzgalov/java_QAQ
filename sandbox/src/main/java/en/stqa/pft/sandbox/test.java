@@ -1,3 +1,5 @@
+package en.stqa.pft.sandbox;
+
 public class test {
 
     public static void main(String[] args) {
